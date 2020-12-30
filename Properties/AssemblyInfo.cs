@@ -21,7 +21,7 @@ using MelonLoader;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-// I don't have a guid.
+[assembly: Guid("926C06A6-1226-468A-B87F-1937E0FD9D71")]
 
 // Version information for an assembly consists of the following four values:
 //
